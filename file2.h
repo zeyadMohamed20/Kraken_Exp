@@ -1,7 +1,7 @@
 #ifndef FILE2_H
 #define FILE2_H
 
-void print(void);
+void print(void); //Fn.
 void run(void);
 
 #endif
